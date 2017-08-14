@@ -1,0 +1,156 @@
+# Copyright (C) 2016 TravelMap Blog
+# This file is distributed under the same license as the TravelMap Blog package.
+msgid ""
+msgstr ""
+"Project-Id-Version: TravelMap Blog 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/travelmap-blog\n"
+"POT-Creation-Date: 2016-10-10 11:01:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: templates/page-options.php:5
+msgctxt "create account notice"
+msgid "https://travelmap.net"
+msgstr ""
+
+#: templates/page-options.php:6
+msgctxt "create account notice"
+msgid "Create a TravelMap account"
+msgstr ""
+
+#: templates/page-options.php:7
+msgctxt "create account notice"
+msgid "travelmap.net"
+msgstr ""
+
+#: templates/page-options.php:10
+msgid "Important: You need a TravelMap account to use and manage this plugin! You can quickly create one on %s"
+msgstr ""
+
+#: templates/page-options.php:12
+msgid "There are 2 ways to display a TravelMap on your blog :"
+msgstr ""
+
+#: templates/page-options.php:13
+msgid "1 : Using a Widget - to embed your Map on all pages"
+msgstr ""
+
+#: templates/page-options.php:15
+msgid ""
+"Go to the widgets settings page (Appearance -> Widgets).\n"
+"Find the TravelMap widget, drag and drop it into the widget area of your choice.\n"
+"Set the url of your TravelMap blog (e.g. https://username.travelmap.net).\n"
+"Save the widget."
+msgstr ""
+
+#: templates/page-options.php:18
+msgid "2 : Using a Shortcode - to embed your Map on a specific post or page"
+msgstr ""
+
+#: templates/page-options.php:20
+msgid "Generate a shortcode (short piece of code contained in brackets) using the form below and paste it in your editor :"
+msgstr ""
+
+#: templates/page-options.php:32
+msgctxt "shortcode form"
+msgid "TravelMap url* :"
+msgstr ""
+
+#: templates/page-options.php:35
+msgctxt "shortcode form"
+msgid "https://username.travelmap.net"
+msgstr ""
+
+#: templates/page-options.php:42
+msgctxt "shortcode form"
+msgid "Map width :"
+msgstr ""
+
+#: templates/page-options.php:52
+msgctxt "shortcode form"
+msgid "Map height :"
+msgstr ""
+
+#: templates/page-options.php:63
+msgctxt "shortcode form"
+msgid "Generate shortcode"
+msgstr ""
+
+#: templates/page-options.php:72
+msgid "Note: This is the first version of the plugin. For now you have to go on TravelMap to update your itinerary but in the future we want to integrate the admin directly into WordPress."
+msgstr ""
+
+#: templates/shortcode-message.php:15
+msgid "Generated shortcode :"
+msgstr ""
+
+#: templates/shortcode-message.php:21
+msgid "You can now copy the generated shortcode and paste it into the editor of one of your page or post. Save it, you should now be able to see your map !"
+msgstr ""
+
+#: templates/shortcode-message.php:25
+msgid "A TravelMap url is required"
+msgstr ""
+
+#: templates/widget-iframe-form.php:2
+msgctxt "widget form"
+msgid "TravelMap"
+msgstr ""
+
+#: templates/widget-iframe-form.php:8
+msgctxt "widget form"
+msgid "Title :"
+msgstr ""
+
+#: templates/widget-iframe-form.php:12
+msgctxt "widget form"
+msgid "TravelMap url :"
+msgstr ""
+
+#: templates/widget-iframe-form.php:13
+msgctxt "widget form"
+msgid "https://username.travelmap.net"
+msgstr ""
+
+#: templates/widget-iframe-form.php:16
+msgctxt "widget form"
+msgid "Map width :"
+msgstr ""
+
+#: templates/widget-iframe-form.php:20
+msgctxt "widget form"
+msgid "Map height :"
+msgstr ""
+
+#: widgets/iframe.php:9
+msgctxt "widget"
+msgid "TravelMap"
+msgstr ""
+
+#: widgets/iframe.php:11
+msgctxt "widget"
+msgid "Embed your TravelMap"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "TravelMap Blog"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/support/plugin/travelmap-blog/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Display an interactive TravelMap on your Wordpress blog. Quickly show and update your itinerary with the latest geolocation technology."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "TravelMap"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://travelmap.net"
+msgstr ""

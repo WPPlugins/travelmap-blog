@@ -1,0 +1,163 @@
+# Copyright (C) 2016 TravelMap Blog
+# This file is distributed under the same license as the TravelMap Blog package.
+msgid ""
+msgstr ""
+"Project-Id-Version: TravelMap Blog 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/travelmap-blog\n"
+"POT-Creation-Date: 2016-10-10 11:01:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-10-10 13:09+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 1.8.9\n"
+
+#: templates/page-options.php:5
+msgctxt "create account notice"
+msgid "https://travelmap.net"
+msgstr "https://travelmap.net"
+
+#: templates/page-options.php:6
+msgctxt "create account notice"
+msgid "Create a TravelMap account"
+msgstr "Créer un compte TravelMap"
+
+#: templates/page-options.php:7
+msgctxt "create account notice"
+msgid "travelmap.net"
+msgstr "travelmap.net"
+
+#: templates/page-options.php:10
+msgid "Important: You need a TravelMap account to use and manage this plugin! You can quickly create one on %s"
+msgstr "Important: Vous devez avoir un compte TravelMap afin d’utiliser et de gérer ce plugin! Vous pouvez en créer un rapidement sur %s"
+
+#: templates/page-options.php:12
+msgid "There are 2 ways to display a TravelMap on your blog :"
+msgstr "Il y a 2 façons d’afficher votre carte TravelMap sur votre blog :"
+
+#: templates/page-options.php:13
+msgid "1 : Using a Widget - to embed your Map on all pages"
+msgstr "1 : En utilisant un Widget - pour intégrer votre carte sur toutes les pages"
+
+#: templates/page-options.php:15
+msgid ""
+"Go to the widgets settings page (Appearance -> Widgets).\n"
+"Find the TravelMap widget, drag and drop it into the widget area of your choice.\n"
+"Set the url of your TravelMap blog (e.g. https://username.travelmap.net).\n"
+"Save the widget."
+msgstr ""
+"Aller sur la page des widgets (Apparence -> Widgets).\n"
+"Trouver le widget TravelMap, faite le glisser dans la zone de widget désirée.\n"
+"Saisissez l’url de votre blog TravelMap (ex: https://votrepseudo.travelmap.net).\n"
+"Sauvez le widget."
+
+#: templates/page-options.php:18
+msgid "2 : Using a Shortcode - to embed your Map on a specific post or page"
+msgstr "2 : En utilisant un Shortcode - pour intégrer votre carte sur une page ou dans un article"
+
+#: templates/page-options.php:20
+msgid "Generate a shortcode (short piece of code contained in brackets) using the form below and paste it in your editor :"
+msgstr "Générer un shortcode (bout de code contenu entre des crochets) en utilisant le formulaire ci-dessous puis copiez-le dans l'éditeur de texte WordPress :"
+
+#: templates/page-options.php:32
+msgctxt "shortcode form"
+msgid "TravelMap url* :"
+msgstr "Lien TravelMap* :"
+
+#: templates/page-options.php:35
+msgctxt "shortcode form"
+msgid "https://username.travelmap.net"
+msgstr "https://votrepseudo.travelmap.net"
+
+#: templates/page-options.php:42
+msgctxt "shortcode form"
+msgid "Map width :"
+msgstr "Largeur de la carte :"
+
+#: templates/page-options.php:52
+msgctxt "shortcode form"
+msgid "Map height :"
+msgstr "Hauteur de la carte :"
+
+#: templates/page-options.php:63
+msgctxt "shortcode form"
+msgid "Generate shortcode"
+msgstr "Générer le shortcode"
+
+#: templates/page-options.php:72
+msgid "Note: This is the first version of the plugin. For now you have to go on TravelMap to update your itinerary but in the future we want to integrate the admin directly into WordPress."
+msgstr "Note: Ceci est la première version du plugin. Pour le moment vous devez vous rendre sur TravelMap pour mettre à jour votre itinéraire. Nous souhaitons proposer un moyen de gérer la carte directement depuis WordPress dans une version future."
+
+#: templates/shortcode-message.php:15
+msgid "Generated shortcode :"
+msgstr "Shortcode généré :"
+
+#: templates/shortcode-message.php:21
+msgid "You can now copy the generated shortcode and paste it into the editor of one of your page or post. Save it, you should now be able to see your map !"
+msgstr "Vous pouvez maintenant copier le shortcode ci-dessus et le coller dans l’éditeur d’une de vos pages ou l’un de vos articles. Sauvez, vous pouvez maintenant voir votre carte sur la page correspondante !"
+
+#: templates/shortcode-message.php:25
+msgid "A TravelMap url is required"
+msgstr "Une url TravelMap est requise"
+
+#: templates/widget-iframe-form.php:2
+msgctxt "widget form"
+msgid "TravelMap"
+msgstr "TravelMap"
+
+#: templates/widget-iframe-form.php:8
+msgctxt "widget form"
+msgid "Title :"
+msgstr "Titre :"
+
+#: templates/widget-iframe-form.php:12
+msgctxt "widget form"
+msgid "TravelMap url :"
+msgstr "TravelMap url :"
+
+#: templates/widget-iframe-form.php:13
+msgctxt "widget form"
+msgid "https://username.travelmap.net"
+msgstr "https://votrepseudo.travelmap.net"
+
+#: templates/widget-iframe-form.php:16
+msgctxt "widget form"
+msgid "Map width :"
+msgstr "Largeur de la carte :"
+
+#: templates/widget-iframe-form.php:20
+msgctxt "widget form"
+msgid "Map height :"
+msgstr "Hauteur de la carte :"
+
+#: widgets/iframe.php:9
+msgctxt "widget"
+msgid "TravelMap"
+msgstr "TravelMap"
+
+#: widgets/iframe.php:11
+msgctxt "widget"
+msgid "Embed your TravelMap"
+msgstr "Intégrez votre carte TravelMap"
+
+#. Plugin Name of the plugin/theme
+msgid "TravelMap Blog"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/support/plugin/travelmap-blog/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Display an interactive TravelMap on your Wordpress blog. Quickly show and update your itinerary with the latest geolocation technology."
+msgstr "Affichez une carte interactive TravelMap sur votre blog WordPress. Gérez votre itinéraire en quelques clics."
+
+#. Author of the plugin/theme
+msgid "TravelMap"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://travelmap.net"
+msgstr "https://travelmap.net"

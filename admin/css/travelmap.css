@@ -1,0 +1,44 @@
+.travelmap-page-title {
+	display: inline-block;
+	position: relative;
+	width: 300px;
+	height: 57px;
+	background-color: red;
+	background: url('../img/options-page-title.png') 50% 50% no-repeat;
+	background-size: 100% 100%;
+	padding: 0 !important;
+	overflow: hidden;
+	text-indent: -9999px;
+	font-size: 0;
+	line-height: 0;
+}
+
+.travelmap-message {
+	position: relative;
+	margin: 5px 0 15px;
+	background: #fff;
+	border-left: 4px solid #fff;
+	-webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+	box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+	padding: 1px 12px;
+}
+
+.travelmap-message--error {
+	border-left-color: #dc3232;
+}
+
+.travelmap-message--success {
+	border-left-color: #46b450;
+}
+
+.travelmap-shortcode {
+	display: inline-block;
+	margin: 5px 0 0;
+	padding: 5px 10px;
+	background-color: #f1f1f1;
+	-webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.1) inset;
+	box-shadow: 0 1px 1px 0 rgba(0,0,0,.1) inset;
+}
+
+.travelmap-note {
+}
